@@ -4,7 +4,8 @@ local colors = {
   blue = '#39c5bb',
   gray_b = '#333333',
   gray_c = '#262626',
-  fg = 'e6e6e6'
+  fg = 'e6e6e6',
+  bg = '1a1a1a'
 }
 
 local line = function(color_a)
