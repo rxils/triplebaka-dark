@@ -10,7 +10,7 @@ local colors = {
 
 local line = function(color_a)
   return {
-    a = { bg = color_a, fg = colors.bg },
+    a = { bg = color_a, fg = colors.bg, gui = 'bold' },
     b = { bg = colors.gray_b, fg = colors.fg },
     c = { bg = colors.gray_c, fg = colors.fg }
   }
