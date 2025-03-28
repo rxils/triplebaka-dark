@@ -2,8 +2,8 @@ local colors = {
   red = '#e24673',
   yellow = '#ffc800',
   blue = '#39c5bb',
-  gray_b = '#333333',
-  gray_c = '#262626',
+  gray_b = '#262626',
+  gray_c = '#333333',
   fg = 'e6e6e6',
   bg = '1a1a1a'
 }
